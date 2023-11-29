@@ -1,0 +1,262 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: palegoldenrod;
+}
+
+/*.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}*/
+
+.image-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+.image-caption {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%);
+  color: white;
+  font-size: 93px; 
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-weight: 550;
+}
+
+.text {
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 90%;
+  text-align: justify;
+  padding: 0 5%;
+}
+
+
+.judul-text{
+  text-align:center;
+  font-weight: 550;
+  font-size: 36px;
+}
+
+.bookmark-1, .bookmark-2, .bookmark-3 {
+  text-align: center;
+  font-weight: 550;
+  font-size: 20px;
+  padding: 10px;
+  position: absolute;
+}
+
+.bookmark-1 { top: 105%; left: 13%; }
+.bookmark-2 { top: 113%; left: 13%; }
+.bookmark-3 { top: 121%; left: 13%; }
+
+.bookmark-1 a, .bookmark-2 a, .bookmark-3 a {
+  text-decoration: none;
+  color: black;
+}
+
+.foto{
+  position: relative;
+  width: 200px;
+  height: 250px;
+}
+
+.foto-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+  margin-top: 20px;
+}
+
+.foto-container img{
+  border-radius: 8px;
+}
+
+.review-container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.review-card {
+  width: 300px;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.review-card img {
+  width: 50px;
+  height: 50px;width: 300px;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.review-card h3 {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+
+.rating {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.rating::before {
+  letter-spacing: 2px;
+  color: #ffc107;
+}
+
+.review-card p {
+  font-size: 16px;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+
+.date {
+  font-size: 12px;
+  color: #888;
+}
+
+.tour-container {
+  display:flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+
+.tour-card {
+  position: relative;
+  width: 300px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.tour-image {
+  position: relative;
+}
+
+.tour-card img {
+  width: 100%;
+  height: 40%;
+  border-radius: 8px 8px 0 0; /* Rounded corners only at the top */
+}
+
+.price {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: #3498db;
+  color: white;
+  padding: 8px;
+  border-radius: 8px 0 0 0;
+}
+
+.tour-card h3 {
+  margin: 10px 15px 15px;
+  font-size: 18px;
+}
+
+.tour-card p {
+  padding: 15px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid black;
+}
+
+.arrow {
+  text-align: center;
+}
+
+.price-line {
+  position: absolute;
+  bottom: 5px;
+  left: 0;
+  height:300px; /* Extend the line to the top, adjust as needed */
+  width: 5px; /* Width of the vertical line */
+  background-color: #3498db; /* Color of the line */
+  transform-origin: bottom left;
+  transform: rotate(90deg); /* Rotate to make it vertical */
+}
+
+.tour-container a{
+  text-decoration: none;
+  color: black;
+}
+
+/* Add a media query for tablet screens */
+@media only screen and (max-width: 768px) {
+  .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+    width: 100%;
+  }
+}
+
+/* Add a media query for smaller screens (e.g., smartphones) */
+@media only screen and (max-width: 480px) {
+  .image-caption {
+    font-size: 36px;
+  }
+
+  .text {
+    font-size: 16px;
+  }
+
+  .judul-text {
+    font-size: 24px;
+  }
+
+  .bookmark-1, .bookmark-2, .bookmark-3 {
+    font-size: 16px;
+    padding: 5px;
+  }
+
+  .review-card {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .tour-card {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+

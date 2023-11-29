@@ -1,0 +1,330 @@
+body{
+    background: #faf2d3 ;
+}
+.deskripsi-singkat-desktop,
+.deskripsi-singkat-desktop * {
+  box-sizing: border-box;
+}
+.deskripsi-singkat-desktop {
+  background: #faf2d3;
+  width: 1980px;
+  height: 1338px;
+  scale: 76.8%;
+  right: 16%;
+  position: relative;
+  overflow: hidden;
+}
+.map-for-landing-page-2 {
+  width: 1980px;
+  height: 1110px;
+  position: absolute;
+  left: 0px;
+  top: 228px;
+}
+.ellipse-13-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 257px;
+  top: 747px;
+  cursor: pointer;
+}
+
+.sumatra {
+  position: absolute;
+  left: 300px;
+  top: 600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-13-1:hover ~ .sumatra {
+  display: block;
+}
+.ellipse-12-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 514px;
+  top: 997px;
+  cursor: pointer;
+}
+.wjava {
+  position: absolute;
+  left: 600px;
+  top: 600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-12-1:hover ~ .wjava {
+  display: block;
+}
+.ellipse-14-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 628px;
+  top: 1017px;
+}
+
+a {
+  text-decoration: none;
+} 
+
+.cjava {
+  position: absolute;
+  left: 600px;
+  top: 600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-14-1:hover ~ .cjava {
+  display: block;
+}
+.ellipse-17-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 740px;
+  top: 1037px;
+}
+
+.ejava {
+  position: absolute;
+  left: 600px;
+  top: 600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-17-1:hover ~ .ejava {
+  display: block;
+}
+
+
+.ellipse-16-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 853px;
+  top: 1085px;
+  cursor: pointer;
+}
+
+.bali {
+  position: absolute;
+  left: 700px;
+  top: 600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-16-1:hover ~ .bali {
+  display: block;
+}
+.ellipse-15-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 906px;
+  top: 1075px;
+}
+
+.lombok {
+  position: absolute;
+  left: 800px;
+  top:600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-15-1:hover ~ .lombok {
+  display: block;
+}
+.ellipse-9-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 1083px;
+  top: 1075px;
+}
+
+.nt {
+  position: absolute;
+  left: 800px;
+  top: 800px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-9-1:hover ~ .nt {
+  display: block;
+}
+.ellipse-8-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 1762px;
+  top: 877px;
+}
+
+.papua {
+  position: absolute;
+  left: 1500px;
+  top:600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-8-1:hover ~ .papua {
+  display: block;
+}
+.ellipse-10-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 1083px;
+  top: 791px;
+}
+
+.sulawesi {
+  position: absolute;
+  left: 800px;
+  top: 600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-10-1:hover ~ .sulawesi {
+  display: block;
+}
+.ellipse-11-1 {
+  width: 21px;
+  height: 20px;
+  position: absolute;
+  left: 816px;
+  top: 674px;
+}
+
+.kalimantan {
+  position: absolute;
+  left: 800px;
+  top: 600px;
+  transform: scale(0.7);
+  display: none;
+}
+
+.ellipse-11-1:hover ~ .kalimantan {
+  display: block;
+}
+
+.navbar-about,
+.navbar-about * {
+  box-sizing: border-box;
+}
+.navbar-about {
+  width: 1980px;
+  height: 228px;
+  scale: 76.7%;
+  position: relative;
+  right: 238px;
+  bottom: 1375px;
+  overflow: hidden;
+}
+.rectangle-107 {
+  background: #ffffff;
+  border-radius: 0px 0px 100px 100px;
+  width: 1980px;
+  height: 178px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 12px 41.4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-108 {
+  background: #f4e869;
+  border-radius: 0px 0px 100px 100px;
+  width: 196px;
+  height: 178px;
+  position: relative;
+  left: 205px;
+  top: 0px;
+  box-shadow: 0px 12px 41.4px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: undefined;
+  justify-content: center;
+  width: 903px;
+  position: absolute;
+  left: 220px;
+  top: 67px;
+}
+.maps {
+  color: #3085c3;
+  text-align: center;
+  font: 500 32px "Montserrat-Medium", sans-serif;
+  position: relative;
+  width: 185px;
+  height: 47px;
+}
+.travel {
+  color: #3085c3;
+  text-align: center;
+  font: 500 32px "Montserrat-Medium", sans-serif;
+  position: relative;
+  width: 185px;
+  height: 47px;
+}
+.guides {
+  color: #3085c3;
+  text-align: center;
+  font: 500 32px "Montserrat-Medium", sans-serif;
+  position: relative;
+  width: 185px;
+  height: 47px;
+}
+.about {
+  color: #3085c3;
+  text-align: center;
+  font: 500 32px "Montserrat-Medium", sans-serif;
+  position: relative;
+  width: 185px;
+  height: 47px;
+}
+.fa-qs {
+  color: #3085c3;
+  text-align: center;
+  font: 500 32px "Montserrat-Medium", sans-serif;
+  position: relative;
+  width: 185px;
+  height: 47px;
+}
+.search {
+  width: 27.88px;
+  height: 27.88px;
+  position: absolute;
+  left: 1781px;
+  top: 76px;
+  overflow: visible;
+}
+.search3 {
+  width: 26px;
+  height: 24px;
+  position: absolute;
+  left: 1842.88px;
+  top: 77.94px;
+  overflow: visible;
+}
+.logo {
+  height: auto;
+  position: absolute;
+  left: 71px;
+  top: 67px;
+  overflow: visible;
+}
+

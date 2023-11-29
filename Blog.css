@@ -1,0 +1,1032 @@
+.blog-travel-guides {
+  background-color: #faf2d3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+} 
+
+.blog-travel-guides .div {
+  background-color: #faf2d3;
+  overflow: hidden;
+  width: 1980px;
+  height: 4220px;
+  position: relative;
+}
+
+.blog-travel-guides .overlap {
+  position: absolute;
+  width: 667px;
+  height: 1675px;
+  top: 776px;
+  left: 1313px;
+}
+
+.blog-travel-guides .asterisk {
+  position: absolute;
+  width: 213px;
+  height: 457px;
+  top: 780px;
+  left: 454px;
+}
+
+.blog-travel-guides .group {
+  position: absolute;
+  width: 622px;
+  height: 794px;
+  top: 0;
+  left: 0;
+}
+
+.blog-travel-guides .overlap-group {
+  position: relative;
+  width: 618px;
+  height: 794px;
+}
+
+.blog-travel-guides .rectangle {
+  width: 598px;
+  height: 794px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+}
+
+.blog-travel-guides .text-wrapper {
+  position: absolute;
+  width: 618px;
+  top: 397px;
+  left: 0;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .mask-group {
+  position: absolute;
+  width: 598px;
+  height: 361px;
+  top: 0;
+  left: 16px;
+}
+
+.blog-travel-guides .p {
+  position: absolute;
+  width: 552px;
+  top: 500px;
+  left: 36px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .overlap-wrapper {
+  position: absolute;
+  width: 622px;
+  height: 794px;
+  top: 881px;
+  left: 3px;
+}
+
+.blog-travel-guides .img {
+  width: 598px;
+  height: 794px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+}
+
+.blog-travel-guides .text-wrapper-2 {
+  position: absolute;
+  width: 552px;
+  top: 500px;
+  left: 34px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .mask-group-2 {
+  position: absolute;
+  width: 598px;
+  height: 361px;
+  top: 0;
+  left: 13px;
+}
+
+.blog-travel-guides .overlap-2 {
+  position: absolute;
+  width: 2012px;
+  height: 1682px;
+  top: 2538px;
+  left: -32px;
+}
+
+.blog-travel-guides .asterisk-2 {
+  position: absolute;
+  width: 166px;
+  height: 611px;
+  top: 271px;
+  left: 32px;
+}
+
+.blog-travel-guides .footer {
+  position: absolute;
+  width: 2012px;
+  height: 1065px;
+  top: 617px;
+  left: 0;
+  background-color: transparent;
+}
+
+.blog-travel-guides .overlap-3 {
+  position: relative;
+  width: 1980px;
+  height: 581px;
+  top: 484px;
+  left: 32px;
+}
+
+.blog-travel-guides .mask-group-3 {
+  position: absolute;
+  width: 1980px;
+  height: 502px;
+  top: 79px;
+  left: 0;
+}
+
+.blog-travel-guides .text-wrapper-3 {
+  position: absolute;
+  width: 510px;
+  top: 203px;
+  left: 99px;
+  font-family: "Playfair Display-Black", Helvetica;
+  font-weight: 900;
+  color: #3085c3;
+  font-size: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .text-wrapper-4 {
+  position: absolute;
+  width: 510px;
+  top: 203px;
+  left: 558px;
+  font-family: "Playfair Display-Black", Helvetica;
+  font-weight: 900;
+  color: #3085c3;
+  font-size: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .group-2 {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  top: 328px;
+  left: 105px;
+}
+
+.blog-travel-guides .group-3 {
+  position: absolute;
+  width: 548px;
+  height: 29px;
+  top: 375px;
+  left: 105px;
+}
+
+.blog-travel-guides .text-wrapper-5 {
+  position: absolute;
+  width: 510px;
+  top: 0;
+  left: 36px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #3085c3;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .icon-mail {
+  position: absolute;
+  width: 27px;
+  height: 21px;
+  top: 4px;
+  left: -1px;
+}
+
+.blog-travel-guides .group-4 {
+  position: absolute;
+  width: 551px;
+  height: 29px;
+  top: 322px;
+  left: 562px;
+}
+
+.blog-travel-guides .expeditionnusantara {
+  position: absolute;
+  width: 225px;
+  height: 19px;
+  top: 4px;
+  left: 40px;
+}
+
+.blog-travel-guides .icon-instagram {
+  position: absolute;
+  width: 28px;
+  height: 27px;
+  top: 2px;
+  left: -1px;
+}
+
+.blog-travel-guides .text-wrapper-6 {
+  position: absolute;
+  width: 510px;
+  top: 327px;
+  left: 141px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #3085c3;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .group-5 {
+  position: absolute;
+  width: 543px;
+  height: 29px;
+  top: 369px;
+  left: 572px;
+}
+
+.blog-travel-guides .icon-facebook {
+  position: absolute;
+  width: 12px;
+  height: 20px;
+  top: 1px;
+  left: -1px;
+}
+
+.blog-travel-guides .expedition {
+  position: absolute;
+  width: 221px;
+  height: 19px;
+  top: 4px;
+  left: 33px;
+}
+
+.blog-travel-guides .group-6 {
+  position: absolute;
+  width: 453px;
+  height: 34px;
+  top: 422px;
+  left: 105px;
+}
+
+.blog-travel-guides .icon-map-pin {
+  position: absolute;
+  width: 23px;
+  height: 28px;
+  top: 0;
+  left: 0;
+}
+
+.blog-travel-guides .text-wrapper-7 {
+  position: absolute;
+  width: 411px;
+  top: 0;
+  left: 40px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #3085c3;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .made-with-by {
+  position: absolute;
+  width: 278px;
+  top: 517px;
+  left: 835px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #5cd2e6;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .line {
+  width: 312px;
+  left: 99px;
+  position: absolute;
+  height: 7px;
+  top: 290px;
+}
+
+.blog-travel-guides .line-2 {
+  width: 421px;
+  left: 550px;
+  position: absolute;
+  height: 7px;
+  top: 290px;
+}
+
+.blog-travel-guides .asterisk-3 {
+  position: absolute;
+  width: 511px;
+  height: 446px;
+  top: 135px;
+  left: 1469px;
+}
+
+.blog-travel-guides .icon-heart {
+  position: absolute;
+  width: 10px;
+  height: 9px;
+  top: 524px;
+  left: 954px;
+}
+
+.blog-travel-guides .overlap-group-wrapper {
+  position: absolute;
+  width: 157px;
+  height: 157px;
+  top: 0;
+  left: 931px;
+  box-shadow: 0px 4px 65px #00000040;
+}
+
+.blog-travel-guides .mask-group-wrapper {
+  position: relative;
+  width: 171px;
+  height: 171px;
+  top: -7px;
+  left: -7px;
+  background-color: #ffffff;
+  border-radius: 85.5px;
+  border: 7px solid;
+  border-color: #3085c3;
+}
+
+.blog-travel-guides .mask-group-4 {
+  position: relative;
+  width: 93px;
+  height: 105px;
+  top: 27px;
+  left: 32px;
+  background-image: url(./img/vector.png);
+  background-size: 100% 100%;
+}
+
+.blog-travel-guides .container {
+  display: flex;
+  flex-direction: column;
+  width: 1712px;
+  align-items: flex-start;
+  gap: 32px;
+  padding: 0px 32px;
+  position: absolute;
+  top: 479px;
+  left: 118px;
+}
+
+.blog-travel-guides .divider {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1px;
+  background-color: #f4e869;
+}
+
+.blog-travel-guides .content {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.blog-travel-guides .footer-text {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: var(--text-md-regular-font-family);
+  font-weight: var(--text-md-regular-font-weight);
+  color: var(--gray-400);
+  font-size: var(--text-md-regular-font-size);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+  font-style: var(--text-md-regular-font-style);
+}
+
+.blog-travel-guides .footer-links {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.blog-travel-guides .footer-link {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--text-md-regular-font-family);
+  font-weight: var(--text-md-regular-font-weight);
+  color: var(--gray-400);
+  font-size: var(--text-md-regular-font-size);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--text-md-regular-font-style);
+}
+
+.blog-travel-guides .newsletter {
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+  align-items: flex-start;
+  gap: 16px;
+  position: absolute;
+  top: 319px;
+  left: 1069px;
+}
+
+.blog-travel-guides .heading {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--text-sm-semibold-font-family);
+  font-weight: var(--text-sm-semibold-font-weight);
+  color: #3085c3;
+  font-size: var(--text-sm-semibold-font-size);
+  letter-spacing: var(--text-sm-semibold-letter-spacing);
+  line-height: var(--text-sm-semibold-line-height);
+  font-style: var(--text-sm-semibold-font-style);
+}
+
+.blog-travel-guides .email-capture {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.blog-travel-guides .input-field {
+  flex-direction: column;
+  height: 44px;
+  align-items: flex-start;
+  flex: 1;
+  flex-grow: 1;
+  display: flex;
+  position: relative;
+}
+
+.blog-travel-guides .div-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.blog-travel-guides .input {
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: var(--white);
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--gray-300);
+  box-shadow: var(--shadow-xs);
+  display: flex;
+  position: relative;
+}
+
+.blog-travel-guides .content-2 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.blog-travel-guides .text {
+  position: relative;
+  flex: 1;
+  margin-top: -1px;
+  font-family: var(--text-md-regular-font-family);
+  font-weight: var(--text-md-regular-font-weight);
+  color: var(--gray-500);
+  font-size: var(--text-md-regular-font-size);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+  font-style: var(--text-md-regular-font-style);
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.blog-travel-guides .button {
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 8px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.blog-travel-guides .button-base {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 18px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #3085c3;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--brand-600);
+  box-shadow: var(--shadow-xs);
+  all: unset;
+  box-sizing: border-box;
+}
+
+.blog-travel-guides .text-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--text-md-semibold-font-family);
+  font-weight: var(--text-md-semibold-font-weight);
+  color: var(--white);
+  font-size: var(--text-md-semibold-font-size);
+  letter-spacing: var(--text-md-semibold-letter-spacing);
+  line-height: var(--text-md-semibold-line-height);
+  white-space: nowrap;
+  font-style: var(--text-md-semibold-font-style);
+}
+
+.blog-travel-guides .div-wrapper {
+  position: absolute;
+  width: 609px;
+  height: 794px;
+  top: 0;
+  left: 80px;
+}
+
+.blog-travel-guides .overlap-4 {
+  position: relative;
+  width: 605px;
+  height: 794px;
+}
+
+.blog-travel-guides .rectangle-2 {
+  width: 598px;
+  height: 794px;
+  left: 4px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  position: absolute;
+  top: 0;
+}
+
+.blog-travel-guides .text-wrapper-8 {
+  position: absolute;
+  width: 605px;
+  top: 397px;
+  left: 0;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .mask-group-5 {
+  position: absolute;
+  width: 598px;
+  height: 361px;
+  top: 0;
+  left: 4px;
+}
+
+.blog-travel-guides .text-wrapper-9 {
+  position: absolute;
+  width: 552px;
+  top: 500px;
+  left: 29px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .group-7 {
+  position: absolute;
+  width: 603px;
+  height: 794px;
+  top: 0;
+  left: 722px;
+}
+
+.blog-travel-guides .overlap-5 {
+  position: relative;
+  width: 599px;
+  height: 794px;
+  background-color: #ffffff;
+  border-radius: 12px;
+}
+
+.blog-travel-guides .text-wrapper-10 {
+  position: absolute;
+  width: 595px;
+  top: 397px;
+  left: 2px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .mask-group-6 {
+  position: absolute;
+  width: 599px;
+  height: 361px;
+  top: 0;
+  left: 0;
+}
+
+.blog-travel-guides .text-wrapper-11 {
+  position: absolute;
+  width: 552px;
+  top: 500px;
+  left: 25px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .group-8 {
+  position: absolute;
+  width: 603px;
+  height: 794px;
+  top: 0;
+  left: 1360px;
+}
+
+.blog-travel-guides .overlap-6 {
+  position: relative;
+  width: 599px;
+  height: 794px;
+}
+
+.blog-travel-guides .rectangle-3 {
+  width: 598px;
+  height: 794px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+}
+
+.blog-travel-guides .text-wrapper-12 {
+  position: absolute;
+  width: 599px;
+  top: 397px;
+  left: 0;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .mask-group-7 {
+  position: absolute;
+  width: 598px;
+  height: 361px;
+  top: 0;
+  left: 1px;
+}
+
+.blog-travel-guides .text-wrapper-13 {
+  position: absolute;
+  width: 552px;
+  top: 500px;
+  left: 22px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .overlap-7 {
+  position: absolute;
+  width: 1245px;
+  height: 437px;
+  top: 292px;
+  left: 368px;
+}
+
+.blog-travel-guides .BLOG-TRAVEL-GUIDES {
+  position: absolute;
+  width: 1245px;
+  height: 437px;
+  top: 0;
+  left: 0;
+  font-family: "Playfair Display-Bold", Helvetica;
+  font-weight: 700;
+  color: #3085c3;
+  font-size: 93px;
+  text-align: center;
+  letter-spacing: 4.65px;
+  line-height: 117.9px;
+}
+
+.blog-travel-guides .panduan-travel-tips {
+  position: absolute;
+  width: 727px;
+  height: 92px;
+  top: 297px;
+  left: 258px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .menu-travel {
+  position: absolute;
+  width: 1980px;
+  height: 228px;
+  top: 0;
+  left: 0;
+}
+
+.blog-travel-guides .overlap-8 {
+  position: relative;
+  height: 178px;
+  background-color: #ffffff;
+  border-radius: 0px 0px 100px 100px;
+  box-shadow: 0px 12px 41.4px #00000040;
+}
+
+.blog-travel-guides .overlap-group-2 {
+  position: absolute;
+  width: 903px;
+  height: 178px;
+  top: 0;
+  left: 220px;
+}
+
+.blog-travel-guides .rectangle-4 {
+  width: 196px;
+  height: 178px;
+  left: 353px;
+  background-color: #f4e869;
+  border-radius: 0px 0px 100px 100px;
+  box-shadow: 0px 12px 41.4px #00000040;
+  position: absolute;
+  top: 0;
+}
+
+.blog-travel-guides .navbar {
+  display: flex;
+  width: 903px;
+  align-items: baseline;
+  justify-content: center;
+  position: absolute;
+  top: 67px;
+  left: 0;
+}
+
+.blog-travel-guides .text-wrapper-14 {
+  position: relative;
+  width: 185px;
+  height: 47px;
+  margin-top: -1px;
+  margin-left: -11px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #3085c3;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .text-wrapper-15 {
+  position: relative;
+  width: 185px;
+  height: 47px;
+  margin-top: -1px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #3085c3;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .text-wrapper-16 {
+  position: relative;
+  width: 185px;
+  height: 47px;
+  margin-top: -1px;
+  margin-right: -11px;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-weight: 500;
+  color: #3085c3;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .frame {
+  position: absolute;
+  width: 88px;
+  height: 28px;
+  top: 76px;
+  left: 1781px;
+}
+
+.blog-travel-guides .logo {
+  position: absolute;
+  width: 94px;
+  height: 32px;
+  top: 67px;
+  left: 71px;
+}
+
+.blog-travel-guides .group-9 {
+  position: absolute;
+  width: 622px;
+  height: 794px;
+  top: 776px;
+  left: 42px;
+}
+
+.blog-travel-guides .rectangle-5 {
+  width: 598px;
+  height: 794px;
+  left: 10px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  position: absolute;
+  top: 0;
+}
+
+.blog-travel-guides .mask-group-8 {
+  position: absolute;
+  width: 598px;
+  height: 361px;
+  top: 0;
+  left: 10px;
+}
+
+.blog-travel-guides .group-10 {
+  position: absolute;
+  width: 622px;
+  height: 794px;
+  top: 776px;
+  left: 680px;
+}
+
+.blog-travel-guides .rectangle-6 {
+  width: 599px;
+  height: 794px;
+  left: 10px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  position: absolute;
+  top: 0;
+}
+
+.blog-travel-guides .mask-group-9 {
+  position: absolute;
+  width: 599px;
+  height: 361px;
+  top: 0;
+  left: 10px;
+}
+
+.blog-travel-guides .group-11 {
+  position: absolute;
+  width: 602px;
+  height: 794px;
+  top: 1657px;
+  left: 52px;
+}
+
+.blog-travel-guides .overlap-9 {
+  position: relative;
+  width: 598px;
+  height: 794px;
+  background-color: #ffffff;
+  border-radius: 12px;
+}
+
+.blog-travel-guides .text-wrapper-17 {
+  position: absolute;
+  width: 588px;
+  top: 397px;
+  left: 5px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.blog-travel-guides .mask-group-10 {
+  position: absolute;
+  width: 598px;
+  height: 361px;
+  top: 0;
+  left: 0;
+}
+
+.blog-travel-guides .group-12 {
+  position: absolute;
+  width: 603px;
+  height: 794px;
+  top: 1657px;
+  left: 690px;
+}
+
+.blog-travel-guides .text-wrapper-18 {
+  position: absolute;
+  width: 580px;
+  top: 397px;
+  left: 10px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}

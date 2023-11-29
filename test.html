@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hover to Show Card</title>
+    <style>
+      .ellipse {
+        width: 50px;
+        height: 50px;
+        background-color: #ccc;
+        border-radius: 50%;
+        cursor: pointer;
+      }
+
+      .card {
+        position: absolute;
+        width: 200px;
+        height: 100px;
+        background-color: #fff;
+        border: 1px solid #000;
+        padding: 10px;
+        display: none;
+      }
+
+      .ellipse:hover .card {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="ellipse">
+      <div class="card">
+        <img src="https://picsum.photos/200/100" alt="Image" />
+        <p>This is a card that will show when you hover over the ellipse.</p>
+      </div>
+    </div>
+  </body>
+</html>
